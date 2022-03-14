@@ -1,0 +1,27 @@
+26
+51C:\Users\86188\Desktop\jirengu666\pikachu-2\test.js132797850421872805 0
+63C:\Users\86188\Desktop\jirengu666\pikachu-2\.idea\pikachu-2.iml132797736128960575 0
+49C:\Users\86188\Desktop\jirengu666\pikachu-2\.idea132797854751219192 1
+57C:\Users\86188\Desktop\jirengu666\pikachu-2\src\style.css132797242764278145 0
+47C:\Users\86188\Desktop\jirengu666\pikachu-2\src132797853441005127 1
+65C:\Users\86188\Desktop\jirengu666\pikachu-2\dist\test.afbae394.js132797854234938027 0
+48C:\Users\86188\Desktop\jirengu666\pikachu-2\dist132797855331477005 1
+49C:\Users\86188\Desktop\jirengu666\pikachu-2\image132797214597115212 1
+58C:\Users\86188\Desktop\jirengu666\pikachu-2\src\index.html132797232637695257 0
+53C:\Users\86188\Desktop\jirengu666\pikachu-2\test.html132797855321028307 0
+52C:\Users\86188\Desktop\jirengu666\pikachu-2\test3.js132797854232694322 0
+55C:\Users\86188\Desktop\jirengu666\pikachu-2\src\main.js132795574114279998 0
+66C:\Users\86188\Desktop\jirengu666\pikachu-2\dist\index.fef1cfaf.js132797094221025279 0
+59C:\Users\86188\Desktop\jirengu666\pikachu-2\image\flesh.gif132797092905950455 0
+67C:\Users\86188\Desktop\jirengu666\pikachu-2\dist\flesh.bc855c39.gif132797094404560706 0
+67C:\Users\86188\Desktop\jirengu666\pikachu-2\dist\index.5952072d.css132797127309589811 0
+71C:\Users\86188\Desktop\jirengu666\pikachu-2\dist\index.5952072d.css.map132797127309647165 0
+70C:\Users\86188\Desktop\jirengu666\pikachu-2\dist\index.fef1cfaf.js.map132797094221065191 0
+59C:\Users\86188\Desktop\jirengu666\pikachu-2\dist\index.html132797102445890151 0
+65C:\Users\86188\Desktop\jirengu666\pikachu-2\dist\test.1118f53f.js132797855331426850 0
+69C:\Users\86188\Desktop\jirengu666\pikachu-2\dist\test.1118f53f.js.map132797855331466746 0
+69C:\Users\86188\Desktop\jirengu666\pikachu-2\dist\test.afbae394.js.map132797854234968318 0
+58C:\Users\86188\Desktop\jirengu666\pikachu-2\dist\test.html132797855331417073 0
+60C:\Users\86188\Desktop\jirengu666\pikachu-2\.idea\.gitignore132797736132346815 0
+61C:\Users\86188\Desktop\jirengu666\pikachu-2\.idea\modules.xml132797736129094685 0
+63C:\Users\86188\Desktop\jirengu666\pikachu-2\.idea\workspace.xml132797854751209508 0
